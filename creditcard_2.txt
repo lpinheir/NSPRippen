@@ -1,0 +1,13 @@
+IssuingNetwork,CardNumber
+American Express,349603055223979
+American Express,374461744221237
+American Express,377480119793932
+American Express,372261244972368
+American Express,373791224920812
+American Express,342764723516298
+American Express,348066295212502
+American Express,376068728981708
+American Express,345629206295958
+American Express,378580251098047
+
+arrhythmia, arthritis, asthma, atelectasis
