@@ -14,11 +14,11 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 #                                                     DYNAMIC VARIABLES                                                      #
 ##############################################################################################################################
 
-mgrip = '192.168.17.140' # Provide the Manager IP
+mgrip = 'mgrip' # Provide the Manager IP
 user = 'admin' # Provide the Manager API Username
-password = 'McAfee01' # Provide the Manager API Username Password
+password = 'password' # Provide the Manager API Username Password
 filename = 'cvs_nsp_list_policyID' # Provide the filename
-outpath = 'C:\\Users\\LPinheir\\OneDrive - McAfee\\4 - PROFESSIONAL SERVICES - ADVISORY\\McAfee\\Bradesco\\2020\\CVE API\OUTPUT\\' # Provide the Path for the OUTPUT FILE
+outpath = 'C:\\Users\\john\\OUTPUT\\' # Provide the Path for the OUTPUT FILE
 
 ##############################################################################################################################
 
