@@ -18,7 +18,7 @@ mgrip = 'mgrip' # Provide the Manager IP
 user = 'admin' # Provide the Manager API Username
 password = 'password' # Provide the Manager API Username Password
 filename = 'cvs_nsp_JSONGen_attacks' # Provide the filename
-outpath = 'C:\\Users\\LPinheir\\OneDrive - McAfee\\Personal Projects\\NSPRippen' # Provide the Path for the OUTPUT FILE
+outpath = 'C:\\Users\\john\\OUTPUT' # Provide the Path for the OUTPUT FILE
 
 ##############################################################################################################################
 
