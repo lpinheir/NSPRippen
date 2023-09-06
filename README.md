@@ -12,5 +12,8 @@ Run this script to collect your information about all attacks that are included 
 3 - cvs_nsp_JSONGen_Policies - 
 Run this script to collect your IPS Policies contents based on your extracted Policy IDs (Collected in 1 - cvs_nsp_list_PolicyID).
 
+4 - nsp_AllinOne - 
+This is a Beta of the merge of 1-2-3 scripts.
+
 You can use those JSON files to feed some Analytics Solution
 
