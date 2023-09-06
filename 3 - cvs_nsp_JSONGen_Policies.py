@@ -14,7 +14,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 #                                                     DYNAMIC VARIABLES                                                      #
 ##############################################################################################################################
 
-mgrip = '192.168.17.140' # Provide the Manager IP
+mgrip = 'mgrip' # Provide the Manager IP
 user = 'admin' # Provide the Manager API Username
 password = 'password' # Provide the Manager API Username Password
 filename = 'cvs_nsp_JSONGen_Policy_PolicyID' # Provide the filename
